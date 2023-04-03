@@ -1,0 +1,7 @@
+# File: gitignore
+# Name: Daniel Grew
+
+*.o
+assignment2
+data_A2_Q1.txt
+data_A2_Q2.txt
